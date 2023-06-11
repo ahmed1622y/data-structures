@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xUJ7Zx1NSj3KEOt+4uzVsH52GZgCUtTmm3lNeJhUKMkHZYRAbG9ZovFTvhShnubG3NrJ7g4wx2UX8ZfpRx0jEA==",
+  "success": true,
+  "projectFilePath": "D:\\Yehia's data\\Programming\\Repos\\data structers\\data structers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aymls\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

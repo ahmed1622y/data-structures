@@ -1,0 +1,17 @@
+D:\Yehia's data\Programming\Repos\data structers\bin\Release\net6.0\data structers.exe
+D:\Yehia's data\Programming\Repos\data structers\bin\Release\net6.0\data structers.deps.json
+D:\Yehia's data\Programming\Repos\data structers\bin\Release\net6.0\data structers.runtimeconfig.json
+D:\Yehia's data\Programming\Repos\data structers\bin\Release\net6.0\data structers.dll
+D:\Yehia's data\Programming\Repos\data structers\bin\Release\net6.0\data structers.pdb
+D:\Yehia's data\Programming\Repos\data structers\bin\Release\net6.0\BCrypt.Net-Next.dll
+D:\Yehia's data\Programming\Repos\data structers\obj\Release\net6.0\data structers.csproj.AssemblyReference.cache
+D:\Yehia's data\Programming\Repos\data structers\obj\Release\net6.0\data structers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yehia's data\Programming\Repos\data structers\obj\Release\net6.0\data structers.AssemblyInfoInputs.cache
+D:\Yehia's data\Programming\Repos\data structers\obj\Release\net6.0\data structers.AssemblyInfo.cs
+D:\Yehia's data\Programming\Repos\data structers\obj\Release\net6.0\data structers.csproj.CoreCompileInputs.cache
+D:\Yehia's data\Programming\Repos\data structers\obj\Release\net6.0\data structers.csproj.CopyComplete
+D:\Yehia's data\Programming\Repos\data structers\obj\Release\net6.0\data structers.dll
+D:\Yehia's data\Programming\Repos\data structers\obj\Release\net6.0\refint\data structers.dll
+D:\Yehia's data\Programming\Repos\data structers\obj\Release\net6.0\data structers.pdb
+D:\Yehia's data\Programming\Repos\data structers\obj\Release\net6.0\data structers.genruntimeconfig.cache
+D:\Yehia's data\Programming\Repos\data structers\obj\Release\net6.0\ref\data structers.dll
